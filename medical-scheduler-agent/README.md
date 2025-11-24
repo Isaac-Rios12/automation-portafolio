@@ -5,6 +5,8 @@ Agente inteligente diseñado para gestionar citas médicas utilizando Google Cal
 Este proyecto fue creado como demostración de capacidades avanzadas en ingeniería de prompts, diseño de agentes y flujos conversacionales profesionales.
 
 ![alt text](image.png)
+> Nota: Si deseas, puedo mostrarte el workflow funcionando en vivo o enseñarte cómo está integrado paso a paso.
+
 
 ---
 
@@ -51,17 +53,4 @@ El prompt completo se encuentra en:
 
 ---
 
-## 📂 Estructura del proyecto
 
-/medical-scheduler-agent
-│
-├── prompt/
-│ └── main_prompt.md # Prompt completo del agente
-│
-├── src/
-│ ├── agent.json # Configuración del agente
-│ ├── tools/ # Definición de herramientas externas
-│ └── examples/ # Ejemplos de uso
-│
-├── README.md
-└── LICENSE (opcional)
